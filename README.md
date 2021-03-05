@@ -41,7 +41,8 @@ To get the code..
   ```
 2. Move to the folder and install requirements
   ```bash
-  cd minute-pitch
+  cd Pitch-Flask-App
+  
 ### create virtual environment and install pip
   $ python3 -m venv --without-pip virtual
   $ source virtual/bin/env
